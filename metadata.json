@@ -1,0 +1,6 @@
+{
+  "name": "Lordina Beauty Salon",
+  "description": "Bilingual (English and Amharic) website for Lordina Girls Beauty Salon. Features remote booking, real-time queue visibility, free slots with specific servants, VIP/VVIP/Normal tier selectors, simulated payment integrations, and a salon management console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
